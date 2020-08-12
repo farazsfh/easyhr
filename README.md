@@ -4,8 +4,6 @@ Starting: To start the program, run Main.java
 
 Closing: Close the window (make sure you always log out with the back button before closing the application)
 
-Using the program:
-
 # Logging in as an Applicant:
 Click on Applicant
 Choose to login, or sign up with username and password

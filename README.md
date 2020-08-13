@@ -33,3 +33,6 @@ Click on Hiring Station to add a posting, start an interview or start the next r
 to close a posting and start first round of interviews, just select the posting and click start next round.
 
 HR can also hire someone directly by clicking Hire Selected.
+
+# Contributers
+Syed Faraz Hussain, Nachiket Bhatt, Thomas Luo
